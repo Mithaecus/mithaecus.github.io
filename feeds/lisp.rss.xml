@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<rss version="2.0">
+ <channel>
+  <title>My Cyber Space: Posts tagged 'lisp'</title>
+  <description>My Cyber Space: Posts tagged 'lisp'</description>
+  <link>http://www.mithaecus.github.io/tags/lisp.html</link>
+  <lastBuildDate>Fri, 01 Apr 2022 07:00:00 UT</lastBuildDate>
+  <pubDate>Fri, 01 Apr 2022 07:00:00 UT</pubDate>
+  <ttl>1800</ttl>
+  <item>
+   <title>April Fools</title>
+   <link>http://www.mithaecus.github.io/2022/04/april-fools.html?utm_source=lisp&amp;utm_medium=RSS</link>
+   <guid isPermaLink="false">urn:http-www-mithaecus-github-io:-2022-04-april-fools-html</guid>
+   <pubDate>Fri, 01 Apr 2022 07:00:00 UT</pubDate>
+   <author>Eddy</author>
+   <description>
+&lt;p&gt;Hello!&lt;/p&gt;</description></item></channel></rss>
